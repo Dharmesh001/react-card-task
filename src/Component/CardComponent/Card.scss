@@ -1,0 +1,25 @@
+.ui.card > .content,
+.ui.cards > .card > .content > .header {
+    color: #1ecbc0;
+    text-align: left;
+}
+
+.ui.card > .extra,
+.ui.cards > .card > .extra {
+    i {
+        color: #1ecbc0;
+    }
+}
+.card-group-2 {
+    background-color: #1ecbc0 !important;
+    .content {
+        .header {
+            color: #ffff !important;
+        }
+    }
+    .extra{
+      i{
+        color: #ffff !important;
+      }
+    }
+}
